@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Enrico Marino",
+    "email": "enrico.marino@email.com",
+    "site": "http://onirame.no.de"
+  },
+  "name": "mat",
+  "description": "JavaScript dimension-independent Matrix library",
+  "version": "0.0.0",
+  "homepage": "https://github.com/onirame/mat",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onirame/mat.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
