@@ -4,13 +4,13 @@
     "email": "enrico.marino@email.com",
     "site": "http://onirame.no.de"
   },
-  "name": "mat",
-  "description": "JavaScript dimension-independent Matrix library",
+  "name": "matrixn",
+  "description": "JavaScript dimension-independent matrix library",
   "version": "0.0.0",
-  "homepage": "https://github.com/onirame/mat",
+  "homepage": "https://github.com/onirame/matrixn",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/mat.git"
+    "url": "git://github.com/onirame/matrixn.git"
   },
   "main": "index.js",
   "engines": {

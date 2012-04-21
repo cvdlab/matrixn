@@ -1,10 +1,10 @@
-# mat
+# matrixn
 
-JavaScript dimension-independent Matrix library
+JavaScript dimension-independent matrix library
 
 ## Installation
 
-    $ npm install mat
+    $ npm install matrixn
 
 ## License
 
