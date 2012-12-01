@@ -1,13 +1,3 @@
-# matrixn
-
-JavaScript dimension-independent matrix library
-
-## Installation
-
-    $ npm install matrixn
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2012 Enrico Marino and Federico Spini

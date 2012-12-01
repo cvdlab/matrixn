@@ -1,16 +1,25 @@
 {
   "author": {
     "name": "Enrico Marino",
-    "email": "enrico.marino@email.com",
-    "site": "http://onirame.no.de"
+    "email": "enrico.marino@email.com"
   },
+  "maintainers": [
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com"
+    }
+  ],
   "name": "matrixn",
   "description": "JavaScript dimension-independent matrix library",
-  "version": "0.0.0",
-  "homepage": "https://github.com/onirame/matrixn",
+  "version": "0.0.5",
+  "homepage": "https://github.com/cvdlab/matrixn",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/matrixn.git"
+    "url": "git://github.com/cvdlab/matrixn.git"
   },
   "main": "index.js",
   "engines": {
