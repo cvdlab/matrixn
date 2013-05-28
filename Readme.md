@@ -4,7 +4,11 @@ JavaScript dimension-independent matrix library
 
 ## Installation
 
+As a node.js module
+
     $ npm install matrixn
+
+As a component
 
     $ component install cvdlab/matrixn
 
