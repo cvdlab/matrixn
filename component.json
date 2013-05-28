@@ -1,0 +1,10 @@
+{
+  "name": "matrixn",
+  "repo": "cvdlab/matrixn",
+  "description": "dimension-independent matrix component",
+  "version": "0.0.1",
+  "keywords": ["matrix"],
+  "scripts": ["index.js"],
+  "dependencies": {},
+  "license": "MIT"
+}
